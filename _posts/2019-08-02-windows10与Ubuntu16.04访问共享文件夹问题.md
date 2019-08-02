@@ -7,7 +7,7 @@ author:     周自横
 header-img: img/post-190701.png
 catalog: true
 tags:
-    - 小技巧
+    - 问题解决
     - Ubuntu
 ---
 
