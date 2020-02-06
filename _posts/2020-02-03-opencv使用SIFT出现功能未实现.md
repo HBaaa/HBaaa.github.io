@@ -20,3 +20,4 @@ tags:
 1. 卸载之前的`opencv-python`和`opencv-contrib-python`
 
 2. 安装指定版本为`3.4.2.16`版本的，两个都是。
+
