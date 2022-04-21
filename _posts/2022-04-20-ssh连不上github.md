@@ -49,3 +49,6 @@ Could not open a connection to your authentication agent.
 无法打开与身份验证的链接，这个是使用ssh问题，需要启动ssh代理程序，`ssh-agent bash`然后再执行。
 
 最后发现完全按照github给出的问题解决步骤就可以。
+
+在之后尝试之前打开无法连接的窗口仍是无法链接，我在`E:\Program Files\Git\etc\ssh`中的`ssh_config`添加了该密钥文件。确保之后不再使用`ssh-agent ssh-add`。
+
